@@ -24,11 +24,6 @@ The objective was to transform raw data into interactive visualizations and dash
 
 The interactive dashboard provides visual analysis of airline performance and allows users to explore the data through filters and different analytical views.
 
-## Analysis & Insights
-
-![Qlik Sense Analysis](assets/analysis.png)
-
-The analysis explores relationships between operational and customer-related metrics to identify trends that may support business decision-making.
 
 ## What I Worked On
 
