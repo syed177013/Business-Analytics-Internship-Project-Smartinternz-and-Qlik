@@ -1,42 +1,83 @@
-# Exploring Insights From Synthetic Airline Data Analysis With Qlik
+# Airline Business Analytics Dashboard with Qlik Sense
 
-The project "Exploring Insights from Synthetic Airline Data Analysis with Qlik" involves utilizing synthetic airline data to derive valuable insights using Qlik, a business intelligence and data visualization tool. 
+An end-to-end **Business Analytics and Data Visualization** project built with **Qlik Sense**, using synthetic airline data to explore operational performance, passenger behavior, ticket sales, and customer-related trends.
 
-In this project, the synthetic airline data simulates various aspects of airline operations, including flight schedules, passenger demographics, ticket sales, and performance metrics. The objective is to leverage Qlik's analytical capabilities to uncover patterns, trends, and correlations within this data, aiding in decision-making processes for airlines, airports, and related stakeholders.
+The project was completed as part of the **Virtual Internship Program on Business Analytics powered by Qlik** by SmartBridge / SmartInternz.
 
-## Preprocessed Dataset
+## Overview
 
-The preprocessed dataset used in this project can be accessed via the following link:
-[Preprocessed Dataset](https://drive.google.com/file/d/1ce8yOt0s9ogAmQYphJLepuHNbzkoWqLb/view?usp=sharing)
+The project uses a synthetic airline dataset containing information about:
 
-## Demo Video
+* Flight schedules and operations
+* Passenger demographics
+* Ticket sales
+* Airline performance metrics
+* Customer experience indicators
 
-A demonstration video showcasing the project can be viewed through the following link:
-[Demo Video](https://drive.google.com/file/d/1hRtwIc-jVfy0uO7fxEF0XHCIzzissX0v/view?usp=sharing)
+The objective was to transform raw data into interactive visualizations and dashboards that could help identify **patterns, trends, and business insights** relevant to airlines and airport operations.
 
-## Objectives
+## Dashboard
 
-- Define Problem / Problem Understanding
-- Specify the business problem
-- Business requirements
-- Literature Survey
-- Data Collection
-  - Collect the dataset
-  - Connect Data with Qlik Sense
-- Data Preparation
-  - Prepare the Data for Visualization
-- Data Visualizations
-  - Visualizations
-- Dashboard
-  - Responsive and Design of Dashboard
-- Story
-  - Story Creation
-- Performance Testing
-  - Amount of Data Rendered to DB
-  - Utilization of Data Filters
-- Data Preprocessing – Qlik Sense Script
-- Project Demonstration & Documentation
-  - Record explanation Video for project end to end solution
-  - Project Documentation-Step by step project development procedure
+![Qlik Sense Dashboard](assets/Visual1.png)
 
+![Some more Insights](assets/Visual2.png)
 
+The interactive dashboard provides visual analysis of airline performance and allows users to explore the data through filters and different analytical views.
+
+## Analysis & Insights
+
+![Qlik Sense Analysis](assets/analysis.png)
+
+The analysis explores relationships between operational and customer-related metrics to identify trends that may support business decision-making.
+
+## What I Worked On
+
+### 1. Problem Understanding
+
+* Defined the business problem and analytical objectives.
+* Identified relevant business requirements and metrics.
+
+### 2. Data Preparation
+
+* Connected the airline dataset to Qlik Sense.
+* Prepared and transformed data using **Qlik Sense scripting**.
+* Structured the dataset for visualization and analysis.
+
+### 3. Data Visualization
+
+* Created interactive charts and visualizations.
+* Applied filters and selections for exploratory analysis.
+* Designed a responsive analytical dashboard.
+
+### 4. Dashboard & Story
+
+* Combined visualizations into an interactive dashboard.
+* Created a Qlik Sense story to communicate key findings.
+* Focused on presenting information in a clear, business-oriented format.
+
+### 5. Performance Evaluation
+
+* Evaluated data rendering and dashboard responsiveness.
+* Tested the use of filters and interactions across the dashboard.
+
+## Tools & Technologies
+
+* **Qlik Sense**
+* **Qlik Sense Script**
+* Data Visualization
+* Business Analytics
+* Data Preparation
+* Synthetic Dataset
+
+## Project Resources
+
+* **Preprocessed Dataset:** [Google Drive](https://drive.google.com/file/d/1ce8yOt0s9ogAmQYphJLepHNbzkoWqLb/view?usp=sharing)
+* **Demo Video:** [Google Drive](https://drive.google.com/file/d/1hRtwIc-jVfy0uO7fxEF0XHCIzzissX0v/view?usp=sharing)
+
+## Internship Program
+
+**Virtual Internship Program on Business Analytics powered by Qlik**
+SmartBridge / SmartInternz
+**17 April 2024 – 24 June 2024**
+
+Certificate ID: VIP-BA-2024-403
